@@ -1,14 +1,14 @@
 {
-	"name": "shuttle-lite",
+	"name": "airmathhelper",
 	"version": "1.0.0",
-	"description": "A lightweight version of Shuttle Proxy.",
+	"description": "A lite version of mathairhelper.",
 	"main": "index.js",
 	"scripts": {
 		"start": "node index.js"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/shuttlenetwork/shuttle-lite.git"
+		"url": "git+https://github.com/EasyNebula/rammmerhead-lite"
 	},
 	"keywords": [
 		"shuttle"
